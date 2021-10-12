@@ -1,6 +1,6 @@
 {
   "name": "noop-sample-app",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Root of Noop Sample App",
   "scripts": {
     "lint": "standard $1 --fix --verbose | snazzy",
